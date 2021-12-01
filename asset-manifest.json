@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MetabAlanazi/mon-rolodex/static/css/main.55e79cab.chunk.css",
+    "main.js": "/MetabAlanazi/mon-rolodex/static/js/main.81a41388.chunk.js",
+    "main.js.map": "/MetabAlanazi/mon-rolodex/static/js/main.81a41388.chunk.js.map",
+    "runtime-main.js": "/MetabAlanazi/mon-rolodex/static/js/runtime-main.b7f7422b.js",
+    "runtime-main.js.map": "/MetabAlanazi/mon-rolodex/static/js/runtime-main.b7f7422b.js.map",
+    "static/js/2.9b40dc59.chunk.js": "/MetabAlanazi/mon-rolodex/static/js/2.9b40dc59.chunk.js",
+    "static/js/2.9b40dc59.chunk.js.map": "/MetabAlanazi/mon-rolodex/static/js/2.9b40dc59.chunk.js.map",
+    "static/js/3.73a05af5.chunk.js": "/MetabAlanazi/mon-rolodex/static/js/3.73a05af5.chunk.js",
+    "static/js/3.73a05af5.chunk.js.map": "/MetabAlanazi/mon-rolodex/static/js/3.73a05af5.chunk.js.map",
+    "index.html": "/MetabAlanazi/mon-rolodex/index.html",
+    "static/css/main.55e79cab.chunk.css.map": "/MetabAlanazi/mon-rolodex/static/css/main.55e79cab.chunk.css.map",
+    "static/js/2.9b40dc59.chunk.js.LICENSE.txt": "/MetabAlanazi/mon-rolodex/static/js/2.9b40dc59.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/MetabAlanazi/mon-rolodex/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7f7422b.js",
+    "static/js/2.9b40dc59.chunk.js",
+    "static/css/main.55e79cab.chunk.css",
+    "static/js/main.81a41388.chunk.js"
+  ]
+}
